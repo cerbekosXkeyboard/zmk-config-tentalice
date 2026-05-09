@@ -1,0 +1,12 @@
+file_format: "1"
+id: tentalice
+name: Tentalice
+type: shield
+url: https://github.com/
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  - underglow
+  - studio
+siblings:
+  - tentalice
